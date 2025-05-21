@@ -19,7 +19,7 @@ const LogoComp = () =>{
             <div className="brand-logo">
                 <ul>
                     <li>
-                        <img src="./assets/images/logo/MIICA.png" alt=""/>
+                        {/* <img src="./assets/images/logo/MIICA.png" alt=""/> */}
                     </li>
                 </ul>
             </div>
