@@ -25,15 +25,15 @@ const FooterComp = () => {
                     <ul className="box">
                         <li className="link_name">Information Link</li>
                         <li><a href="#contact">Contact</a></li>
-                        <li><a href="https://iysa.or.id" target="_blank">IYSA Main Website</a></li>
-                        <li><a href="https://iysaolympiad.or.id" target="_blank">IYSA Olympiad Main Website</a></li>
+                        {/* <li><a href="https://iysa.or.id" target="_blank">IYSA Main Website</a></li>
+                        <li><a href="https://iysaolympiad.or.id" target="_blank">IYSA Olympiad Main Website</a></li> */}
                     </ul>
-                    <ul className="box">
+                    {/* <ul className="box">
                         <li className="link_name">Office</li>
                         <li><a href="https://goo.gl/maps/9x18coXGCmSscKec6" target="_blank">Jl. Kemang, Pasir Putih, Kecamatan. Sawangan, Kota Depok, Jawa Barat 16519</a></li>
                         <li><a href='mailto:iysa.olympiad@gmail.com' target='_blank' className="">iysa.olympiad@gmail.com</a></li>
                         <li><a href='https://wa.me/+6283870026877' target='_blank'>+6283870026877</a></li>
-                    </ul>
+                    </ul> */}
                     <ul className="box input-box">
                         <form action="https://formspree.io/f/xoqgjrok" method="POST">
                             <li className="link_name">Newsletter</li>

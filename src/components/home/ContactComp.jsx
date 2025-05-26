@@ -47,7 +47,7 @@ const ContactComp = () =>{
                         </p>
 
                         <div className="info">
-                            <div className="information">
+                            {/* <div className="information">
                                 <img src="./assets/images/icon/location.png" className="contact-icon" alt="" />
                                 <a href='https://goo.gl/maps/9x18coXGCmSscKec6' target='_blank'>Jl. Kemang No. 63 RT 03 RW 06</a>
                             </div>
@@ -58,7 +58,7 @@ const ContactComp = () =>{
                             <div className="information">
                                 <img src="./assets/images/icon/phone.png" className="contact-icon" alt="" />
                                 <a href='https://wa.me/+6283870026877' target='_blank'>+6283870026877</a>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="social-media">

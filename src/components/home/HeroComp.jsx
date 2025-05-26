@@ -9,7 +9,7 @@ const HeroComp = () =>{
                 Join this prestigious Competition and gain an unforgettable experience!</p>                    
                     <br />
                     <div className="hero-btn">  
-                        <a href="#" className="btn">Registration</a>
+                        <a href="https://registration-isf-2025.vercel.app/" target="_blank" className="btn">Registration</a>
                         <a href="https://drive.google.com/file/d/1IyjNGCUDfeQyYlZb-ENDtLev6yKumzDo/view?usp=sharing" className="btn">Guide Book</a>
                     </div>
                     <br />
