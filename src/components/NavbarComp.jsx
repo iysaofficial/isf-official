@@ -35,7 +35,7 @@ const NavbarComp = () =>{
     return(
         <>
         <header>
-            <a href="/"><img className='logo-nav' src="./assets/images/logo/ISF.png" alt="" /></a>
+            <a href="/"><img className='logo-nav' src="./assets/images/logo/ISF 2025.png" alt="" /></a>
             <div className='navigation'>
                 <ul className='menu'>
                     <div className='close-btn'>

@@ -7,14 +7,14 @@ const FooterComp = () => {
         <div className="content">
             <div className="top">
                 <div className="logo-details">
-                    <i><img src="./assets/images/logo/ISF.png" alt="ISF"/></i>
+                    <i><img src="./assets/images/logo/ISF 2025.png" alt="ISF"/></i>
                 </div>
                 <div className="media-icons">
-                    <a href="https://www.facebook.com/profile.php?id=100063979907207" target="_blank"><i className="fab fa-facebook-f"></i></a>
+                    {/* <a href="https://www.facebook.com/profile.php?id=100063979907207" target="_blank"><i className="fab fa-facebook-f"></i></a> */}
                     <a href="https://www.instagram.com/isf.official_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><i className="fab fa-instagram"></i></a>
-                    <a href="https://www.youtube.com/@IYSAOfficial" target="_blank"><i className="fab fa-youtube"></i></a>
+                    {/* <a href="https://www.youtube.com/@IYSAOfficial" target="_blank"><i className="fab fa-youtube"></i></a>
                     <a href="https://www.tiktok.com/@iysa.official" target="_blank"><i className="fab fa-tiktok"></i></a>
-                    <a href="https://www.linkedin.com/company/indonesian-young-scientist-association-iysa" target="_blank"><i className="fab fa-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/company/indonesian-young-scientist-association-iysa" target="_blank"><i className="fab fa-linkedin"></i></a> */}
                 </div>  
             </div>   
             <div className="link-boxes">
@@ -24,16 +24,19 @@ const FooterComp = () => {
                     </ul>
                     <ul className="box">
                         <li className="link_name">Information Link</li>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/AboutPage">About</a></li>
                         <li><a href="#contact">Contact</a></li>
+                        <li><a href="https://drive.google.com/file/d/1IyjNGCUDfeQyYlZb-ENDtLev6yKumzDo/view?usp=sharing">Guide Book</a></li>
                         {/* <li><a href="https://iysa.or.id" target="_blank">IYSA Main Website</a></li>
                         <li><a href="https://iysaolympiad.or.id" target="_blank">IYSA Olympiad Main Website</a></li> */}
                     </ul>
-                    {/* <ul className="box">
+                    <ul className="box">
                         <li className="link_name">Office</li>
-                        <li><a href="https://goo.gl/maps/9x18coXGCmSscKec6" target="_blank">Jl. Kemang, Pasir Putih, Kecamatan. Sawangan, Kota Depok, Jawa Barat 16519</a></li>
-                        <li><a href='mailto:iysa.olympiad@gmail.com' target='_blank' className="">iysa.olympiad@gmail.com</a></li>
-                        <li><a href='https://wa.me/+6283870026877' target='_blank'>+6283870026877</a></li>
-                    </ul> */}
+                        <li><a href="" target="_blank">SEGi University</a></li>
+                        <li><a href='mailto:internationalscience.isf@gmail.com' target='_blank' className="">internationalscience.isf@gmail.com</a></li>
+                        {/* <li><a href='https://wa.me/+6283870026877' target='_blank'>+6283870026877</a></li> */}
+                    </ul>
                     <ul className="box input-box">
                         <form action="https://formspree.io/f/xoqgjrok" method="POST">
                             <li className="link_name">Newsletter</li>

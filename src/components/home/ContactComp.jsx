@@ -47,15 +47,15 @@ const ContactComp = () =>{
                         </p>
 
                         <div className="info">
-                            {/* <div className="information">
+                            <div className="information">
                                 <img src="./assets/images/icon/location.png" className="contact-icon" alt="" />
-                                <a href='https://goo.gl/maps/9x18coXGCmSscKec6' target='_blank'>Jl. Kemang No. 63 RT 03 RW 06</a>
+                                <a href='' target='_blank'>SEGi University</a>
                             </div>
                             <div className="information">
                                 <img src="./assets/images/icon/email.png" className="contact-icon" alt="" />
-                                <a href='mailto:iysa.olympiad@gmail.com' target='_blank'>iysa.olympiad@gmail.com</a>
+                                <a href='mailto:internationalscience.isf@gmail.com' target='_blank'>internationalscience.isf@gmail.com</a>
                             </div>
-                            <div className="information">
+                            {/* <div className="information">
                                 <img src="./assets/images/icon/phone.png" className="contact-icon" alt="" />
                                 <a href='https://wa.me/+6283870026877' target='_blank'>+6283870026877</a>
                             </div> */}
@@ -64,13 +64,13 @@ const ContactComp = () =>{
                         <div className="social-media">
                             <p>Connect with us :</p>
                             <div className="social-icons">
-                                <a href="https://www.facebook.com/profile.php?id=100063979907207" target='_blank'>
+                                {/* <a href="https://www.facebook.com/profile.php?id=100063979907207" target='_blank'>
                                     <i className="fab fa-facebook-f"></i>
-                                </a>
+                                </a> */}
                                 <a href="https://www.instagram.com/isf.official_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target='_blank'>
                                     <i className="fab fa-instagram"></i>
                                 </a>
-                                <a href="https://www.youtube.com/@IYSAOfficial" target='_blank'>
+                                {/* <a href="https://www.youtube.com/@IYSAOfficial" target='_blank'>
                                     <i className="fab fa-youtube"></i>
                                 </a>
                                 <a href="https://www.tiktok.com/@iysa.official" target='_blank'>
@@ -78,7 +78,7 @@ const ContactComp = () =>{
                                 </a>
                                 <a href="https://www.linkedin.com/company/indonesian-young-scientist-association-iysa" target='_blank'>
                                     <i className="fab fa-linkedin"></i>
-                                </a>
+                                </a> */}
                             </div>
                         </div>
                     </div>

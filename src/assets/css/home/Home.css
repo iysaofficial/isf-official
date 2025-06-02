@@ -491,7 +491,8 @@
 
 
 .social-media-section ul li:nth-child(1) a:before{
-    background: #1877f2;
+    /* background: #1877f2; */
+    background: #e1306c;
 }
 
 .social-media-section ul li:nth-child(2) a:before{

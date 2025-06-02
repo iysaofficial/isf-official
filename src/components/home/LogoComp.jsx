@@ -7,9 +7,6 @@ const LogoComp = () =>{
             <div className="brand-logo">
                 <ul>
                     <li>
-                        <img src="./assets/images/logo/LogoIYSA.webp" alt=""/>
-                    </li>
-                    <li>
                         <img src="./assets/images/logo/SEGi University.png" alt=""/>
                     </li>
                 </ul>
@@ -19,7 +16,7 @@ const LogoComp = () =>{
             <div className="brand-logo">
                 <ul>
                     <li>
-                        {/* <img src="./assets/images/logo/MIICA.png" alt=""/> */}
+                        <img src="./assets/images/logo/LogoIYSA.webp" alt=""/>
                     </li>
                 </ul>
             </div>
