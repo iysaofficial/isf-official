@@ -18,6 +18,12 @@ const LogoComp = () =>{
                     <li>
                         <img src="./assets/images/logo/LogoIYSA.webp" alt=""/>
                     </li>
+                    <li>
+                        <img src="./assets/images/logo/MIICA.png" alt=""/>
+                    </li>
+                    <li>
+                        <img src="./assets/images/logo/MYSO.png" alt=""/>
+                    </li>
                 </ul>
             </div>
         </div>

@@ -1207,7 +1207,7 @@
 .brand-logo-section .brand-logo ul li{
     list-style: none;
     display: inline-block;
-    height: 100px;
+    height: 120px;
     cursor: pointer;
     transition: .5s;
 }
