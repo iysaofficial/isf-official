@@ -13,7 +13,7 @@ const CategoryComp = () => {
             <div class="category-card">
                 <i class="fa-solid fa-microphone-lines"></i>
                 <h2>Speech Contest</h2>
-                <p>For Elementary School, Junior High School, Senior High School & University</p>
+                <p>For Elementary School, Junior High School</p>
             </div>
             <div class="category-card">
                 <i class="fa-solid fa-globe"></i>
